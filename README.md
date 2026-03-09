@@ -4,7 +4,7 @@
 At Opendoor AI, we live by a bold promise: High-speed hiring within 24 hours. Our AI does the heavy lifting, matching top-tier talent with the right roles in seconds.
 
 But there was a catch. Our internal data revealed a frustrating trend: roughly 30% of our "Gold Standard" candidates (those with an AI score >90) never actually made it to the finish line. I built this project to find out why. Is our AI missing the mark? Or is something else killing the momentum before the 24-hour clock runs out?
-## 🧩 The Puzzle: Where is the Leak?
+## Where is the Leak?
 I dove into the data to see if the bottleneck was a technical failure or a human one. I focused on three potential culprits:
 
 The AI: Was it ranking candidates incorrectly?
@@ -60,5 +60,6 @@ To fix the funnel, I propose three immediate shifts:
 1. The "Flash" SLA: Implement a mandatory 3-hour response window for Niche Tech roles.
 
 2. AI-Priority Alerts: Ping recruiters instantly when a "Unicorn" (Score >95) enters the system.
+
 
 3. Incentivized Speed: Tie recruiter rewards to SLA compliance, not just total hires.
