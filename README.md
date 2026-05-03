@@ -41,7 +41,7 @@ The real shocker? When a recruiter is slow, candidates are 10x more likely to be
 
 ### AI Hiring Funnel Overview
 
-![Dashboard Page 1](https://github.com/shivakumarbandari000/goodspace-ai-hiring-funnel-analysis/blob/23e18dfdce16d8cfc0557be3fc9426d908ceb084/Power%20BI/AI%20Hiring%20Funnel%20Overview.png)
+![Dashboard Page 1]([https://github.com/shivakumarbandari000/goodspace-ai-hiring-funnel-analysis/blob/23e18dfdce16d8cfc0557be3fc9426d908ceb084/Power%20BI/AI%20Hiring%20Funnel%20Overview.png](https://github.com/shivakumarbandari000/opendoor-ai-hiring-funnel-analysis/blob/main/Images/Screenshot%202026-05-03%20121357.png?raw=true))
 
 ---
 
