@@ -47,7 +47,7 @@ The real shocker? When a recruiter is slow, candidates are 10x more likely to be
 
 ### Recruiter Response Latency Analysis
 
-![Dashboard Page 2](https://github.com/shivakumarbandari000/goodspace-ai-hiring-funnel-analysis/blob/23e18dfdce16d8cfc0557be3fc9426d908ceb084/Power%20BI/Recruiter%20Response%20Latency%20Analysis.png)
+![Dashboard Page 2](https://github.com/shivakumarbandari000/opendoor-ai-hiring-funnel-analysis/blob/main/Images/Screenshot%202026-05-03%20121420.png?raw=true)
 
 ## 💡 The Bottom Line
 The bottleneck isn't our code—it's latency.
